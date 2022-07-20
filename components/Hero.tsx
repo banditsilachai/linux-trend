@@ -37,7 +37,12 @@ const Hero = () => {
       >
         Get JSON data from DistroWatch Page Hit.
       </Text>
-      <Button size="lg" leftIcon={<BrandGithub size={24} />}>
+      <Button
+        component="a"
+        href="https://github.com/9MZa/linux-trend"
+        size="lg"
+        leftIcon={<BrandGithub size={24} />}
+      >
         GitHub
       </Button>
     </Stack>
