@@ -10,10 +10,19 @@
     "fetch": "node fetch.js"
   },
   "dependencies": {
+    "@welcome-ui/box": "^4.2.0",
+    "@welcome-ui/button": "^4.2.0",
+    "@welcome-ui/core": "^4.2.0",
+    "@welcome-ui/icons.github": "^4.2.0",
+    "@welcome-ui/link": "^4.2.0",
+    "@welcome-ui/stack": "^4.2.0",
+    "@welcome-ui/text": "^4.2.0",
+    "@xstyled/styled-components": "^3.6.0",
     "next": "12.2.2",
     "puppeteer": "^15.4.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react": "^18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "@types/node": "18.0.6",
