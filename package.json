@@ -10,20 +10,17 @@
     "fetch": "node fetch.js"
   },
   "dependencies": {
-    "@welcome-ui/box": "^4.2.0",
-    "@welcome-ui/button": "^4.2.0",
-    "@welcome-ui/core": "^4.2.0",
-    "@welcome-ui/icons.github": "^4.2.0",
-    "@welcome-ui/link": "^4.2.0",
-    "@welcome-ui/stack": "^4.2.0",
-    "@welcome-ui/text": "^4.2.0",
-    "@xstyled/styled-components": "^3.6.0",
+    "@mantine/core": "^4.2.12",
+    "@mantine/hooks": "^4.2.12",
+    "@mantine/next": "^4.2.12",
+    "@mantine/prism": "^4.2.12",
+    "cookies-next": "^2.1.1",
     "cors": "^2.8.5",
     "next": "12.2.2",
     "puppeteer": "^15.4.0",
     "react": "^18.2.0",
     "react-dom": "18.2.0",
-    "styled-components": "^5.3.5"
+    "tabler-icons-react": "^1.53.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
