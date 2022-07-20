@@ -1,0 +1,1362 @@
+[
+  {
+    "name": "3CX",
+    "url": "www.3cx",
+    "logo": ""
+  },
+  {
+    "name": "4MLinux",
+    "url": "www.4m",
+    "logo": ""
+  },
+  {
+    "name": "Absolute",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "AcademiX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "AlmaLinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Alpine",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ALT",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Anarchy",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "antiX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "APODIO",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Arch",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ArchBang",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Archcraft",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ArchLabs",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Archman",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ArchStrike",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ArcoLinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Armbian",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Artix",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "AV Linux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "BackBox",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Baruwa",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Batocera",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Bedrock",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Berry",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Bicom",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "BigLinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "BlackArch",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "BlueOnyx",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Bluestar",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Bodhi",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "BOSS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "BSDRP",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "BunsenLabs",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "CAELinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "CAINE",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Calculate",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Canaima",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "CentOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Clear",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ClearOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Clonezilla",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "CloudReady",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "CRUX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Daphile",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Debian",
+    "url": "https://www.debian.org/",
+    "logo": ""
+  },
+  {
+    "name": "Debian Edu",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "deepin",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Devuan",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Diamond",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "DietPi",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "DragonFly",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "EasyNAS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "EasyOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Elastix",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "eLearnix",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "elementary",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Elive",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Emmabuntüs",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "EndeavourOS",
+    "url": "https://endeavouros.com/",
+    "logo": ""
+  },
+  {
+    "name": "Endian",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Endless",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Enso",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "EuroLinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Exe",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Exherbo",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ExTiX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Fatdog64",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Fedora",
+    "url": "https://getfedora.org/",
+    "logo": ""
+  },
+  {
+    "name": "Feren",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Finnix",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FreeBSD",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FreedomBox",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FreePBX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Freespire",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FuguIta",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Funtoo",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FWUL",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Garuda",
+    "url": "https://garudalinux.org/",
+    "logo": ""
+  },
+  {
+    "name": "Gecko",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Gentoo",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "GhostBSD",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "GoboLinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "GParted",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Greenie",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Grml",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Guix System",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Haiku",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "HamoniKR",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "HardenedBSD",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Hyperbola",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "IPFire",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "JingOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Kaisen",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Kali",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "KANOTIX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "KaOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Karoshi",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "KDE neon",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "KISS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "KNOPPIX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Kodachi",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "KolibriOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Kubuntu",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Lakka",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "LFS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "LibreELEC",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Linspire",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Linuxfx",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Lite",
+    "url": "https://www.linuxliteos.com/",
+    "logo": ""
+  },
+  {
+    "name": "Live Raizo",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "LliureX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "LockBox",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Lubuntu",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "LXLE",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Mabox",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Mageia",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "MakuluLinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Manjaro",
+    "url": "https://manjaro.org/",
+    "logo": ""
+  },
+  {
+    "name": "MAX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "MidnightBSD",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Mint",
+    "url": "https://linuxmint.com/",
+    "logo": ""
+  },
+  {
+    "name": "Miracle",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Murena",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "MX Linux",
+    "url": "https://mxlinux.org/",
+    "logo": ""
+  },
+  {
+    "name": "Navy",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Neptune",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "NetBSD",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Netrunner",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "NexentaStor",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Nitrux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "NixOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "NomadBSD",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Nova",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "NST",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "NuTyX",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "OB2D",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Obarun",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Omarine",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Omoikane",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "OpenBSD",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "OpenIndiana",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "openmamba",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "OpenMandriva",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "OpenMediaVault",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "openSUSE",
+    "url": "https://www.opensuse.org/",
+    "logo": ""
+  },
+  {
+    "name": "OPNsense",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Oracle",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "OSGeoLive",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "OSMC",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "OviOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "PakOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "paldo",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Parabola",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Pardus",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Parrot",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Parted Magic",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "PCLinuxOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Pearl",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Pentoo",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Peppermint",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "pfSense",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Photon",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Pisi",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Plamo",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "PLD",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Plop",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Pop!_OS",
+    "url": "https://pop.system76.com/",
+    "logo": ""
+  },
+  {
+    "name": "Porteus",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Porteus Kiosk",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "postmarketOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "PrimTux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Proxmox",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Puppy",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "PureOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Q4OS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Qubes",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "RasPiOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "RasPlex",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "RDS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ReactOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "RebeccaBlackOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "RebornOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Recalbox",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Red Hat",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Redcore",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Redo",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Refracta",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Regata",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "REMnux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Rescatux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Rescuezilla",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "RISC",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Robolinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Rocks Cluster",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Rockstor",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Rocky",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ROSA",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "RSS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Runtu",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Salient",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Salix",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Scientific",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SELKS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Septor",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Shark",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "siduction",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Simplicity",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Slackel",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Slackware",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Slax",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SliTaz",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SmartOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SME Server",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Smoothwall",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Snal",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Solaris",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Solus",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SolydXK",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Sophos",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Source Mage",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SparkyLinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Springdale",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Star",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SteamOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Super Grub2",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SuperGamer",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SUSE",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Swift",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SysLinuxOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "SystemRescue",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "T2",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Tails",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Thinstation",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Tiny Core",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "ToOpPy",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Trisquel",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "TrueNAS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "TurnKey",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "UBOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "UBports",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Ubuntu",
+    "url": "https://ubuntu.com/",
+    "logo": ""
+  },
+  {
+    "name": "Ubuntu Budgie",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Ubuntu Christian",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Ubuntu DP",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Ubuntu Kylin",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Ubuntu MATE",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Ubuntu Studio",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Ufficio Zero",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Ultimate",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Ultramarine",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Univention",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Untangle",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Uruk",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Venom",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Vine",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Void",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Volumio",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Voyager",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "VyOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "VzLinux",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Whonix",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Wifislax",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "XigmaNAS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "XStreamOS",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Xubuntu",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "YunoHost",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Zentyal",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Zenwalk",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Zephix",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Zevenet",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "Zorin",
+    "url": "https://zorin.com/os/",
+    "logo": ""
+  }
+]
