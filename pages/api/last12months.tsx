@@ -1,8 +1,11 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-
+import middleCors from "../../middleware/cors";
+import { cors } from "../../middleware/cors";
 import db from "../../data/last12months.json";
 
-export default function handler(req: NextApiRequest, res: NextApiResponse) {
+async function handler(req: NextApiRequest, res: NextApiResponse) {
+  await middleCors(req, res, cors);
+
   let pageOffset = Number(req.query.pageOffset);
   let pageSize = Number(req.query.pageSize);
 
@@ -17,6 +20,8 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
         db.last12months.length > end ? Number(pageOffset) + 1 : undefined,
     });
   } else {
-    return res.json(db);
+    return res.status(200).json(db);
   }
 }
+
+export default handler;
