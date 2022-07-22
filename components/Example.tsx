@@ -3,13 +3,12 @@ import type { NextPage } from "next";
 import { Button, Box, Text, Title, Stack } from "@mantine/core";
 import { useState } from "react";
 import { Prism } from "@mantine/prism";
-import { useInterval } from "@mantine/hooks";
 
 const fetchData = `fetch('https://linux-trend.vercel.app/api/last1months?pageSize=2&pageOffset=0')
 .then(response => response.json())
 .then(json => console.log(json))`;
 
-const dummyData = `{
+const exampleResult = `{
   items: [
     {
       no: 1,
@@ -33,7 +32,15 @@ const dummyData = `{
 
 const Example: NextPage = () => {
   const [data, setData] = useState("{}");
-  const interval = useInterval(() => setData(dummyData), 1000);
+  const [loading, setLoading] = useState(false);
+
+  const result = () => {
+    setLoading(true);
+    setInterval(() => {
+      setData(exampleResult);
+      setLoading(false);
+    }, 500);
+  };
 
   return (
     <Stack
@@ -58,7 +65,7 @@ const Example: NextPage = () => {
         {fetchData}
       </Prism>
       <Stack align={`flex-start`}>
-        <Button my={`md`} onClick={interval.toggle}>
+        <Button my={`md`} onClick={result} loading={loading}>
           Run
         </Button>
       </Stack>
