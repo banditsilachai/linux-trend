@@ -2,7 +2,7 @@ const puppeteer = require("puppeteer");
 const fs = require("fs");
 const path = require("path")
 const url = "https://distrowatch.com/dwres.php?resource=popularity"
-const distroName = require("./public/distroName.json")
+const distroName = require("./data/distroName.json")
 
 const scrap = async (childNum = 2) => {
     let month = 0
