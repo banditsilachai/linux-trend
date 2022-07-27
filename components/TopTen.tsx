@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import useSWR from "swr";
-import { Title, List, Anchor } from "@mantine/core";
+import { Title, List, Anchor, Loader } from "@mantine/core";
 
 const fetcher = (url: any) => fetch(url).then((res) => res.json());
 
@@ -13,7 +13,7 @@ interface DistroProp {
 const TopTen: NextPage = () => {
   const url = "/api/last1months?pageSize=10&pageOffset=0";
   const { data } = useSWR(url, fetcher);
-
+  if (!data) return <Loader />;
   return (
     <>
       <Title>Top 10</Title>
