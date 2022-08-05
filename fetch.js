@@ -4,6 +4,10 @@ const path = require("path")
 const url = "https://distrowatch.com/dwres.php?resource=popularity"
 const distroName = require("./data/distroName.json")
 
+function getLogo(name) {
+    return `/logos/${name}.png`.toLocaleLowerCase();
+}
+
 const scrap = async (childNum = 2) => {
     let month = 0
     let resultObj = {
@@ -71,6 +75,7 @@ const scrap = async (childNum = 2) => {
                     rank: parseInt(rankEvaluate),
                     trend: getTrend,
                     url: url,
+                    logo: getLogo(nameEvaluate),
                     yesterday: parseInt(yesterdayEvaluate.slice(11, 15))
                 })
                 break;
@@ -81,6 +86,7 @@ const scrap = async (childNum = 2) => {
                     rank: parseInt(rankEvaluate),
                     trend: getTrend,
                     url: url,
+                    logo: getLogo(nameEvaluate),
                     yesterday: parseInt(yesterdayEvaluate.slice(11, 15))
                 })
                 break;
@@ -91,6 +97,7 @@ const scrap = async (childNum = 2) => {
                     rank: parseInt(rankEvaluate),
                     trend: getTrend,
                     url: url,
+                    logo: getLogo(nameEvaluate),
                     yesterday: parseInt(yesterdayEvaluate.slice(11, 15))
                 })
                 break;
@@ -101,6 +108,7 @@ const scrap = async (childNum = 2) => {
                     rank: parseInt(rankEvaluate),
                     trend: getTrend,
                     url: url,
+                    logo: getLogo(nameEvaluate),
                     yesterday: parseInt(yesterdayEvaluate.slice(11, 15))
                 })
                 break;

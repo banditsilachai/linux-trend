@@ -9,25 +9,27 @@ const fetchData = `fetch('https://linux-trend.vercel.app/api/last1months?pageSiz
 .then(json => console.log(json))`;
 
 const exampleResult = `{
-  items: [
+  "items": [
     {
-      no: 1,
-      name: 'MX Linux',
-      rank: 2495,
-      trend: 'up',
-      url: 'https://mxlinux.org/',
-      yesterday: 2489
+      "no": 1,
+      "name": "Mint",
+      "rank": 2613,
+      "trend": "up",
+      "url": "https://linuxmint.com/",
+      "icon": "/icons/mint.png",
+      "yesterday": 2590
     },
     {
-      no: 2,
-      name: 'EndeavourOS',
-      rank: 2398,
-      trend: 'down',
-      url: 'https://endeavouros.com/',
-      yesterday: 2489
+      "no": 2,
+      "name": "MX Linux",
+      "rank": 2468,
+      "trend": "down",
+      "url": "https://mxlinux.org/",
+      "icon": "/icons/mx linux.png",
+      "yesterday": 2590
     }
   ],
-  nextPageOffset: 1
+  "nextPageOffset": 1
 }`;
 
 const Example: NextPage = () => {
