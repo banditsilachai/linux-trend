@@ -16,7 +16,7 @@ const exampleResult = `{
       "rank": 2613,
       "trend": "up",
       "url": "https://linuxmint.com/",
-      "icon": "/icons/mint.png",
+      "logo": "https://linux-trend.vercel.app/logos/mint.png",
       "yesterday": 2590
     },
     {
@@ -25,7 +25,7 @@ const exampleResult = `{
       "rank": 2468,
       "trend": "down",
       "url": "https://mxlinux.org/",
-      "icon": "/icons/mx linux.png",
+      "logo": "https://linux-trend.vercel.app/logos/mx linux.png",
       "yesterday": 2590
     }
   ],
