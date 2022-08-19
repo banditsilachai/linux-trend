@@ -7,7 +7,10 @@ import {
   Loader,
   Image,
   createStyles,
+  Text,
 } from "@mantine/core";
+import getDate from "../data/last1months.json";
+import { formatDistance } from "date-fns";
 
 const useStyles = createStyles((theme, _params) => ({
   distroName: {
@@ -31,6 +34,7 @@ const TopTen: NextPage = () => {
   const url = "/api/last1months?pageSize=10&pageOffset=0";
   const { data } = useSWR(url, fetcher);
   const { classes } = useStyles();
+  const updated = formatDistance(new Date(getDate.createAt[0]), new Date());
 
   if (!data) return <Loader />;
   return (
@@ -57,6 +61,7 @@ const TopTen: NextPage = () => {
           );
         })}
       </List>
+      <Text>last update&nbsp;{updated}</Text>
     </>
   );
 };
