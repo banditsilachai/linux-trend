@@ -34,7 +34,9 @@ const TopTen: NextPage = () => {
   const url = "/api/last1months?pageSize=10&pageOffset=0";
   const { data } = useSWR(url, fetcher);
   const { classes } = useStyles();
-  const updated = formatDistance(new Date(getDate.createAt[0]), new Date());
+  const updated = formatDistance(new Date(getDate.createAt[0]), new Date(), {
+    addSuffix: true,
+  });
 
   if (!data) return <Loader />;
   return (
