@@ -1,5 +1,6 @@
 import type { NextPage } from "next";
 import useSWR from "swr";
+
 import {
   Title,
   List,
@@ -11,6 +12,12 @@ import {
 } from "@mantine/core";
 import getDate from "../data/last1months.json";
 import { formatDistance } from "date-fns";
+
+import dynamic from "next/dynamic";
+
+const Top10ChartWithNoSSR = dynamic(() => import("./Chart"), {
+  ssr: false,
+});
 
 const useStyles = createStyles((theme, _params) => ({
   distroName: {
@@ -42,6 +49,7 @@ const TopTen: NextPage = () => {
   return (
     <>
       <Title>Top 10</Title>
+      <Top10ChartWithNoSSR />
       <List
         spacing="xs"
         center
