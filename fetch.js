@@ -38,14 +38,16 @@ const scrap = async (childNum = 2) => {
   const savePath = path.join(`${__dirname}/data/last${month}months.json`);
   console.log(`Fetching data for last${month}months ⏳`);
 
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    headless: "new",
+  });
   const page = await browser.newPage();
 
   await page.goto(url, {
     waitUntil: "networkidle0",
   });
 
-  let distroCount = 264;
+  let distroCount = 274;
 
   for (let i = 2; i < distroCount; i++) {
     const nameSelector = await page.waitForSelector(
