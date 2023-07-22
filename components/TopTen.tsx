@@ -57,7 +57,7 @@ const TopTen: NextPage = () => {
                 <Image src={item.logo} width={24} height={24} alt={item.name} />
               }
             >
-              <Anchor color="dark" href={item.url}>
+              <Anchor color="dark" href={item.url} target={`_blank`}>
                 {item.name}
               </Anchor>
             </List.Item>
