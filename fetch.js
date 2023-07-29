@@ -47,7 +47,7 @@ const scrap = async (childNum = 2) => {
     waitUntil: "networkidle0",
   });
 
-  let distroCount = 274;
+  let distroCount = 271;
 
   for (let i = 2; i < distroCount; i++) {
     const nameSelector = await page.waitForSelector(
@@ -140,7 +140,7 @@ const scrap = async (childNum = 2) => {
     }
   }
 
-  fs.writeFile(savePath, JSON.stringify(resultObj), "utf-8", (err) => {
+  fs.writeFile(savePath, JSON.stringify(resultObj, null, 2), "utf-8", (err) => {
     if (!err) {
       console.log(`last${month}months is saved. ✅`);
     }
