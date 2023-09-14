@@ -7,7 +7,7 @@ current_datetime=$(date +'%d-%m-%Y %H:%M:%S')
 cd /Users/bandit/Development/React/linux-trend/
 
 # Run your Node.js script
-/Users/bandit/Library/Caches/fnm_multishells/294_1693526796488/bin/node fetch.js
+/Users/bandit/Library/Caches/fnm_multishells/2647_1694674786942/bin/node fetch.js
 
 # Check if there are changes to commit
 if [ -n "$(git status --porcelain)" ]; then
