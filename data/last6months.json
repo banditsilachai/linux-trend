@@ -1,6 +1,6 @@
 {
   "createAt": [
-    "2023-09-20T11:23:23.215Z"
+    "2023-09-21T04:19:42.933Z"
   ],
   "last6months": [
     {
@@ -15,7 +15,7 @@
     {
       "no": 2,
       "name": "Mint",
-      "rank": 2099,
+      "rank": 2106,
       "trend": "up",
       "url": "https://linuxmint.com/",
       "logo": "https://linux-trend.vercel.app/logos/mint.png",
@@ -24,7 +24,7 @@
     {
       "no": 3,
       "name": "EndeavourOS",
-      "rank": 1893,
+      "rank": 1890,
       "trend": "down",
       "url": "https://endeavouros.com/",
       "logo": "https://linux-trend.vercel.app/logos/endeavouros.png",
@@ -33,7 +33,7 @@
     {
       "no": 4,
       "name": "Debian",
-      "rank": 1459,
+      "rank": 1460,
       "trend": "up",
       "url": "https://www.debian.org/",
       "logo": "https://linux-trend.vercel.app/logos/debian.png",
@@ -42,8 +42,8 @@
     {
       "no": 5,
       "name": "Manjaro",
-      "rank": 1322,
-      "trend": "up",
+      "rank": 1321,
+      "trend": "down",
       "url": "https://manjaro.org/",
       "logo": "https://linux-trend.vercel.app/logos/manjaro.png",
       "yesterday": 2332
@@ -51,7 +51,7 @@
     {
       "no": 6,
       "name": "Ubuntu",
-      "rank": 1053,
+      "rank": 1049,
       "trend": "down",
       "url": "https://www.ubuntu.com/",
       "logo": "https://linux-trend.vercel.app/logos/ubuntu.png",
@@ -60,7 +60,7 @@
     {
       "no": 7,
       "name": "Pop!_OS",
-      "rank": 996,
+      "rank": 994,
       "trend": "down",
       "url": "https://system76.com/pop",
       "logo": "https://linux-trend.vercel.app/logos/pop!_os.png",
@@ -69,7 +69,7 @@
     {
       "no": 8,
       "name": "Fedora",
-      "rank": 977,
+      "rank": 980,
       "trend": "up",
       "url": "https://getfedora.org/",
       "logo": "https://linux-trend.vercel.app/logos/fedora.png",
@@ -87,7 +87,7 @@
     {
       "no": 10,
       "name": "Lite",
-      "rank": 671,
+      "rank": 670,
       "trend": "down",
       "url": "https://www.linuxliteos.com/",
       "logo": "https://linux-trend.vercel.app/logos/lite.png",
@@ -96,7 +96,7 @@
     {
       "no": 11,
       "name": "Zorin",
-      "rank": 640,
+      "rank": 639,
       "trend": "down",
       "url": "https://www.zorinos.com/",
       "logo": "https://linux-trend.vercel.app/logos/zorin.png",
@@ -106,7 +106,7 @@
       "no": 12,
       "name": "Garuda",
       "rank": 557,
-      "trend": "down",
+      "trend": "level",
       "url": "https://garudalinux.org/",
       "logo": "https://linux-trend.vercel.app/logos/garuda.png",
       "yesterday": 2332
@@ -114,7 +114,7 @@
     {
       "no": 13,
       "name": "KDE neon",
-      "rank": 521,
+      "rank": 520,
       "trend": "down",
       "url": "https://neon.kde.org/",
       "logo": "https://linux-trend.vercel.app/logos/kde neon.png",
@@ -133,7 +133,7 @@
       "no": 15,
       "name": "elementary",
       "rank": 462,
-      "trend": "down",
+      "trend": "level",
       "url": "https://elementary.io/",
       "logo": "https://linux-trend.vercel.app/logos/elementary.png",
       "yesterday": 2332
@@ -141,8 +141,8 @@
     {
       "no": 16,
       "name": "Mageia",
-      "rank": 443,
-      "trend": "level",
+      "rank": 444,
+      "trend": "up",
       "url": "https://www.mageia.org/",
       "logo": "https://linux-trend.vercel.app/logos/mageia.png",
       "yesterday": 2332
@@ -150,7 +150,7 @@
     {
       "no": 17,
       "name": "Nobara",
-      "rank": 404,
+      "rank": 406,
       "trend": "up",
       "url": "https://nobaraproject.org/",
       "logo": "https://linux-trend.vercel.app/logos/nobara.png",
@@ -159,7 +159,7 @@
     {
       "no": 18,
       "name": "Kali",
-      "rank": 383,
+      "rank": 382,
       "trend": "down",
       "url": "http://www.kali.org/",
       "logo": "https://linux-trend.vercel.app/logos/kali.png",
@@ -168,8 +168,8 @@
     {
       "no": 19,
       "name": "PCLinuxOS",
-      "rank": 383,
-      "trend": "level",
+      "rank": 382,
+      "trend": "down",
       "url": "http://www.pclinuxos.com/",
       "logo": "https://linux-trend.vercel.app/logos/pclinuxos.png",
       "yesterday": 2332
@@ -195,8 +195,8 @@
     {
       "no": 22,
       "name": "AlmaLinux",
-      "rank": 365,
-      "trend": "level",
+      "rank": 364,
+      "trend": "down",
       "url": "https://almalinux.org/",
       "logo": "https://linux-trend.vercel.app/logos/almalinux.png",
       "yesterday": 2332
@@ -205,7 +205,7 @@
       "no": 23,
       "name": "SparkyLinux",
       "rank": 361,
-      "trend": "up",
+      "trend": "level",
       "url": "https://sparkylinux.org/",
       "logo": "https://linux-trend.vercel.app/logos/sparkylinux.png",
       "yesterday": 2332
@@ -213,7 +213,7 @@
     {
       "no": 24,
       "name": "ArcoLinux",
-      "rank": 353,
+      "rank": 349,
       "trend": "down",
       "url": "https://arcolinux.info/",
       "logo": "https://linux-trend.vercel.app/logos/arcolinux.png",
@@ -223,7 +223,7 @@
       "no": 25,
       "name": "NixOS",
       "rank": 345,
-      "trend": "up",
+      "trend": "level",
       "url": "https://nixos.org/",
       "logo": "https://linux-trend.vercel.app/logos/nixos.png",
       "yesterday": 2332
@@ -241,7 +241,7 @@
       "no": 27,
       "name": "Q4OS",
       "rank": 339,
-      "trend": "up",
+      "trend": "level",
       "url": "https://q4os.org/",
       "logo": "https://linux-trend.vercel.app/logos/q4os.png",
       "yesterday": 2332
@@ -249,8 +249,8 @@
     {
       "no": 28,
       "name": "Alpine",
-      "rank": 335,
-      "trend": "level",
+      "rank": 334,
+      "trend": "down",
       "url": "https://www.alpinelinux.org/",
       "logo": "https://linux-trend.vercel.app/logos/alpine.png",
       "yesterday": 2332
@@ -259,7 +259,7 @@
       "no": 29,
       "name": "FreeBSD",
       "rank": 328,
-      "trend": "down",
+      "trend": "level",
       "url": "https://www.freebsd.org/",
       "logo": "https://linux-trend.vercel.app/logos/freebsd.png",
       "yesterday": 2332
@@ -267,7 +267,7 @@
     {
       "no": 30,
       "name": "CachyOS",
-      "rank": 320,
+      "rank": 321,
       "trend": "up",
       "url": "https://cachyos.org/",
       "logo": "https://linux-trend.vercel.app/logos/cachyos.png",
@@ -275,6 +275,15 @@
     },
     {
       "no": 31,
+      "name": "blendOS",
+      "rank": 309,
+      "trend": "up",
+      "url": "https://blendos.co/",
+      "logo": "https://linux-trend.vercel.app/logos/blendos.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 32,
       "name": "Peppermint",
       "rank": 309,
       "trend": "level",
@@ -283,19 +292,10 @@
       "yesterday": 2332
     },
     {
-      "no": 32,
-      "name": "blendOS",
-      "rank": 308,
-      "trend": "up",
-      "url": "https://blendos.co/",
-      "logo": "https://linux-trend.vercel.app/logos/blendos.png",
-      "yesterday": 2332
-    },
-    {
       "no": 33,
       "name": "Voyager",
-      "rank": 291,
-      "trend": "level",
+      "rank": 292,
+      "trend": "up",
       "url": "https://voyagerlive.org/",
       "logo": "https://linux-trend.vercel.app/logos/voyager.png",
       "yesterday": 2332
@@ -304,7 +304,7 @@
       "no": 34,
       "name": "Devuan",
       "rank": 269,
-      "trend": "up",
+      "trend": "level",
       "url": "https://devuan.org/",
       "logo": "https://linux-trend.vercel.app/logos/devuan.png",
       "yesterday": 2332
@@ -322,7 +322,7 @@
       "no": 36,
       "name": "TUXEDO",
       "rank": 260,
-      "trend": "up",
+      "trend": "level",
       "url": "https://www.tuxedocomputers.com/os",
       "logo": "https://linux-trend.vercel.app/logos/tuxedo.png",
       "yesterday": 2332
@@ -339,8 +339,8 @@
     {
       "no": 38,
       "name": "Kubuntu",
-      "rank": 257,
-      "trend": "level",
+      "rank": 255,
+      "trend": "down",
       "url": "http://www.kubuntu.org/",
       "logo": "https://linux-trend.vercel.app/logos/kubuntu.png",
       "yesterday": 2332
@@ -349,7 +349,7 @@
       "no": 39,
       "name": "Lubuntu",
       "rank": 252,
-      "trend": "down",
+      "trend": "level",
       "url": "https://lubuntu.me/",
       "logo": "https://linux-trend.vercel.app/logos/lubuntu.png",
       "yesterday": 2332
@@ -357,8 +357,8 @@
     {
       "no": 40,
       "name": "Solus",
-      "rank": 252,
-      "trend": "level",
+      "rank": 251,
+      "trend": "down",
       "url": "https://getsol.us/",
       "logo": "https://linux-trend.vercel.app/logos/solus.png",
       "yesterday": 2332
@@ -366,8 +366,8 @@
     {
       "no": 41,
       "name": "SmartOS",
-      "rank": 250,
-      "trend": "level",
+      "rank": 248,
+      "trend": "down",
       "url": "https://www.tritondatacenter.com/smartos",
       "logo": "https://linux-trend.vercel.app/logos/smartos.png",
       "yesterday": 2332
@@ -375,7 +375,7 @@
     {
       "no": 42,
       "name": "Tails",
-      "rank": 247,
+      "rank": 246,
       "trend": "down",
       "url": "https://tails.boum.org/",
       "logo": "https://linux-trend.vercel.app/logos/tails.png",
@@ -383,15 +383,6 @@
     },
     {
       "no": 43,
-      "name": "Bluestar",
-      "rank": 231,
-      "trend": "down",
-      "url": "https://sourceforge.net/projects/bluestarlinux/",
-      "logo": "https://linux-trend.vercel.app/logos/bluestar.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 44,
       "name": "OpenMandriva",
       "rank": 231,
       "trend": "level",
@@ -400,10 +391,19 @@
       "yesterday": 2332
     },
     {
+      "no": 44,
+      "name": "Bluestar",
+      "rank": 229,
+      "trend": "down",
+      "url": "https://sourceforge.net/projects/bluestarlinux/",
+      "logo": "https://linux-trend.vercel.app/logos/bluestar.png",
+      "yesterday": 2332
+    },
+    {
       "no": 45,
       "name": "Rocky",
       "rank": 229,
-      "trend": "down",
+      "trend": "level",
       "url": "https://rockylinux.org/",
       "logo": "https://linux-trend.vercel.app/logos/rocky.png",
       "yesterday": 2332
@@ -430,40 +430,49 @@
       "no": 48,
       "name": "Archcraft",
       "rank": 206,
-      "trend": "down",
+      "trend": "level",
       "url": "https://archcraft.io/",
       "logo": "https://linux-trend.vercel.app/logos/archcraft.png",
       "yesterday": 2332
     },
     {
       "no": 49,
+      "name": "PureOS",
+      "rank": 200,
+      "trend": "level",
+      "url": "https://pureos.net/",
+      "logo": "https://linux-trend.vercel.app/logos/pureos.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 50,
       "name": "XeroLinux",
-      "rank": 201,
+      "rank": 200,
       "trend": "down",
       "url": "https://xerolinux.xyz/",
       "logo": "https://linux-trend.vercel.app/logos/xerolinux.png",
       "yesterday": 2332
     },
     {
-      "no": 50,
-      "name": "PureOS",
-      "rank": 200,
-      "trend": "down",
-      "url": "https://pureos.net/",
-      "logo": "https://linux-trend.vercel.app/logos/pureos.png",
-      "yesterday": 2332
-    },
-    {
       "no": 51,
       "name": "Parrot",
       "rank": 199,
-      "trend": "down",
+      "trend": "level",
       "url": "https://parrotsec.org/",
       "logo": "https://linux-trend.vercel.app/logos/parrot.png",
       "yesterday": 2332
     },
     {
       "no": 52,
+      "name": "Linuxfx",
+      "rank": 198,
+      "trend": "up",
+      "url": "http://www.linuxfx.org/",
+      "logo": "https://linux-trend.vercel.app/logos/linuxfx.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 53,
       "name": "CentOS",
       "rank": 194,
       "trend": "level",
@@ -472,28 +481,19 @@
       "yesterday": 2332
     },
     {
-      "no": 53,
+      "no": 54,
       "name": "Xubuntu",
-      "rank": 194,
-      "trend": "level",
+      "rank": 193,
+      "trend": "down",
       "url": "https://www.xubuntu.org/",
       "logo": "https://linux-trend.vercel.app/logos/xubuntu.png",
       "yesterday": 2332
     },
     {
-      "no": 54,
-      "name": "Linuxfx",
-      "rank": 192,
-      "trend": "up",
-      "url": "http://www.linuxfx.org/",
-      "logo": "https://linux-trend.vercel.app/logos/linuxfx.png",
-      "yesterday": 2332
-    },
-    {
       "no": 55,
       "name": "siduction",
-      "rank": 177,
-      "trend": "level",
+      "rank": 176,
+      "trend": "down",
       "url": "https://siduction.org/",
       "logo": "https://linux-trend.vercel.app/logos/siduction.png",
       "yesterday": 2332
@@ -502,27 +502,27 @@
       "no": 56,
       "name": "Gentoo",
       "rank": 175,
-      "trend": "down",
+      "trend": "level",
       "url": "https://www.gentoo.org/",
       "logo": "https://linux-trend.vercel.app/logos/gentoo.png",
       "yesterday": 2332
     },
     {
       "no": 57,
-      "name": "KaOS",
-      "rank": 173,
+      "name": "Photon",
+      "rank": 174,
       "trend": "up",
-      "url": "http://kaosx.us/",
-      "logo": "https://linux-trend.vercel.app/logos/kaos.png",
+      "url": "https://vmware.github.io/photon/",
+      "logo": "https://linux-trend.vercel.app/logos/photon.png",
       "yesterday": 2332
     },
     {
       "no": 58,
-      "name": "Photon",
+      "name": "KaOS",
       "rank": 173,
       "trend": "level",
-      "url": "https://vmware.github.io/photon/",
-      "logo": "https://linux-trend.vercel.app/logos/photon.png",
+      "url": "http://kaosx.us/",
+      "logo": "https://linux-trend.vercel.app/logos/kaos.png",
       "yesterday": 2332
     },
     {
@@ -555,7 +555,7 @@
     {
       "no": 62,
       "name": "Murena",
-      "rank": 167,
+      "rank": 165,
       "trend": "down",
       "url": "https://murena.com/",
       "logo": "https://linux-trend.vercel.app/logos/murena.png",
@@ -572,6 +572,15 @@
     },
     {
       "no": 64,
+      "name": "Athena",
+      "rank": 163,
+      "trend": "up",
+      "url": "https://github.com/Athena-OS",
+      "logo": "https://linux-trend.vercel.app/logos/athena.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 65,
       "name": "Tiny Core",
       "rank": 163,
       "trend": "level",
@@ -580,27 +589,18 @@
       "yesterday": 2332
     },
     {
-      "no": 65,
+      "no": 66,
       "name": "Arch",
-      "rank": 162,
-      "trend": "level",
+      "rank": 161,
+      "trend": "down",
       "url": "http://www.archlinux.org/",
       "logo": "https://linux-trend.vercel.app/logos/arch.png",
       "yesterday": 2332
     },
     {
-      "no": 66,
-      "name": "Athena",
-      "rank": 162,
-      "trend": "level",
-      "url": "https://github.com/Athena-OS",
-      "logo": "https://linux-trend.vercel.app/logos/athena.png",
-      "yesterday": 2332
-    },
-    {
       "no": 67,
       "name": "Qubes",
-      "rank": 161,
+      "rank": 160,
       "trend": "down",
       "url": "http://qubes-os.org/",
       "logo": "https://linux-trend.vercel.app/logos/qubes.png",
@@ -627,8 +627,8 @@
     {
       "no": 70,
       "name": "TrueNAS",
-      "rank": 154,
-      "trend": "level",
+      "rank": 155,
+      "trend": "up",
       "url": "https://www.truenas.com/",
       "logo": "https://linux-trend.vercel.app/logos/truenas.png",
       "yesterday": 2332
@@ -636,7 +636,7 @@
     {
       "no": 71,
       "name": "deepin",
-      "rank": 153,
+      "rank": 154,
       "trend": "up",
       "url": "https://deepin.org/",
       "logo": "https://linux-trend.vercel.app/logos/deepin.png",
@@ -655,7 +655,7 @@
       "no": 73,
       "name": "Artix",
       "rank": 149,
-      "trend": "up",
+      "trend": "level",
       "url": "https://artixlinux.org/",
       "logo": "https://linux-trend.vercel.app/logos/artix.png",
       "yesterday": 2332
@@ -707,33 +707,15 @@
     },
     {
       "no": 79,
-      "name": "Proxmox",
-      "rank": 142,
-      "trend": "level",
-      "url": "https://www.proxmox.com/",
-      "logo": "https://linux-trend.vercel.app/logos/proxmox.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 80,
       "name": "Fatdog64",
-      "rank": 141,
+      "rank": 142,
       "trend": "up",
       "url": "http://distro.ibiblio.org/fatdog/web/",
       "logo": "https://linux-trend.vercel.app/logos/fatdog64.png",
       "yesterday": 2332
     },
     {
-      "no": 81,
-      "name": "Ubuntu MATE",
-      "rank": 140,
-      "trend": "down",
-      "url": "https://ubuntu-mate.org/",
-      "logo": "https://linux-trend.vercel.app/logos/ubuntu mate.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 82,
+      "no": 80,
       "name": "ALT",
       "rank": 139,
       "trend": "level",
@@ -742,7 +724,7 @@
       "yesterday": 2332
     },
     {
-      "no": 83,
+      "no": 81,
       "name": "GhostBSD",
       "rank": 139,
       "trend": "level",
@@ -751,7 +733,34 @@
       "yesterday": 2332
     },
     {
+      "no": 82,
+      "name": "Peropesis",
+      "rank": 139,
+      "trend": "up",
+      "url": "https://peropesis.org/",
+      "logo": "https://linux-trend.vercel.app/logos/peropesis.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 83,
+      "name": "Proxmox",
+      "rank": 139,
+      "trend": "down",
+      "url": "https://www.proxmox.com/",
+      "logo": "https://linux-trend.vercel.app/logos/proxmox.png",
+      "yesterday": 2332
+    },
+    {
       "no": 84,
+      "name": "Ubuntu MATE",
+      "rank": 139,
+      "trend": "down",
+      "url": "https://ubuntu-mate.org/",
+      "logo": "https://linux-trend.vercel.app/logos/ubuntu mate.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 85,
       "name": "ExTiX",
       "rank": 138,
       "trend": "level",
@@ -760,21 +769,12 @@
       "yesterday": 2332
     },
     {
-      "no": 85,
-      "name": "Peropesis",
-      "rank": 137,
-      "trend": "up",
-      "url": "https://peropesis.org/",
-      "logo": "https://linux-trend.vercel.app/logos/peropesis.png",
-      "yesterday": 2332
-    },
-    {
       "no": 86,
-      "name": "Archman",
-      "rank": 135,
-      "trend": "down",
-      "url": "https://archman.org/",
-      "logo": "https://linux-trend.vercel.app/logos/archman.png",
+      "name": "ROSA",
+      "rank": 136,
+      "trend": "up",
+      "url": "https://www.rosalinux.ru/",
+      "logo": "https://linux-trend.vercel.app/logos/rosa.png",
       "yesterday": 2332
     },
     {
@@ -806,20 +806,20 @@
     },
     {
       "no": 90,
-      "name": "ROSA",
-      "rank": 135,
-      "trend": "level",
-      "url": "https://www.rosalinux.ru/",
-      "logo": "https://linux-trend.vercel.app/logos/rosa.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 91,
       "name": "OpenBSD",
       "rank": 134,
       "trend": "level",
       "url": "http://www.openbsd.org/",
       "logo": "https://linux-trend.vercel.app/logos/openbsd.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 91,
+      "name": "Archman",
+      "rank": 132,
+      "trend": "down",
+      "url": "https://archman.org/",
+      "logo": "https://linux-trend.vercel.app/logos/archman.png",
       "yesterday": 2332
     },
     {
@@ -860,15 +860,6 @@
     },
     {
       "no": 96,
-      "name": "Gecko",
-      "rank": 127,
-      "trend": "level",
-      "url": "https://geckolinux.github.io/",
-      "logo": "https://linux-trend.vercel.app/logos/gecko.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 97,
       "name": "Haiku",
       "rank": 127,
       "trend": "level",
@@ -877,10 +868,19 @@
       "yesterday": 2332
     },
     {
+      "no": 97,
+      "name": "Gecko",
+      "rank": 126,
+      "trend": "down",
+      "url": "https://geckolinux.github.io/",
+      "logo": "https://linux-trend.vercel.app/logos/gecko.png",
+      "yesterday": 2332
+    },
+    {
       "no": 98,
       "name": "Kodachi",
       "rank": 126,
-      "trend": "up",
+      "trend": "level",
       "url": "https://www.digi77.com/linux-kodachi/",
       "logo": "https://linux-trend.vercel.app/logos/kodachi.png",
       "yesterday": 2332
@@ -932,20 +932,20 @@
     },
     {
       "no": 104,
-      "name": "Whonix",
-      "rank": 114,
-      "trend": "level",
-      "url": "https://www.whonix.org/",
-      "logo": "https://linux-trend.vercel.app/logos/whonix.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 105,
       "name": "Ultramarine",
       "rank": 113,
       "trend": "level",
       "url": "https://ultramarine-linux.org/",
       "logo": "https://linux-trend.vercel.app/logos/ultramarine.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 105,
+      "name": "Whonix",
+      "rank": 113,
+      "trend": "down",
+      "url": "https://www.whonix.org/",
+      "logo": "https://linux-trend.vercel.app/logos/whonix.png",
       "yesterday": 2332
     },
     {
@@ -959,6 +959,24 @@
     },
     {
       "no": 107,
+      "name": "SysLinuxOS",
+      "rank": 109,
+      "trend": "up",
+      "url": "https://syslinuxos.com/",
+      "logo": "https://linux-trend.vercel.app/logos/syslinuxos.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 108,
+      "name": "BigLinux",
+      "rank": 108,
+      "trend": "up",
+      "url": "https://www.biglinux.com.br/",
+      "logo": "https://linux-trend.vercel.app/logos/biglinux.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 109,
       "name": "Dragora",
       "rank": 108,
       "trend": "level",
@@ -967,28 +985,10 @@
       "yesterday": 2332
     },
     {
-      "no": 108,
-      "name": "SysLinuxOS",
-      "rank": 108,
-      "trend": "up",
-      "url": "https://syslinuxos.com/",
-      "logo": "https://linux-trend.vercel.app/logos/syslinuxos.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 109,
-      "name": "BigLinux",
-      "rank": 107,
-      "trend": "level",
-      "url": "https://www.biglinux.com.br/",
-      "logo": "https://linux-trend.vercel.app/logos/biglinux.png",
-      "yesterday": 2332
-    },
-    {
       "no": 110,
       "name": "Rhino",
       "rank": 104,
-      "trend": "up",
+      "trend": "level",
       "url": "",
       "logo": "https://linux-trend.vercel.app/logos/rhino.png",
       "yesterday": 2332
@@ -997,7 +997,7 @@
       "no": 111,
       "name": "BunsenLabs",
       "rank": 99,
-      "trend": "down",
+      "trend": "level",
       "url": "https://www.bunsenlabs.org/",
       "logo": "https://linux-trend.vercel.app/logos/bunsenlabs.png",
       "yesterday": 2332
@@ -1006,7 +1006,7 @@
       "no": 112,
       "name": "Slax",
       "rank": 95,
-      "trend": "down",
+      "trend": "level",
       "url": "https://www.slax.org/",
       "logo": "https://linux-trend.vercel.app/logos/slax.png",
       "yesterday": 2332
@@ -1014,8 +1014,8 @@
     {
       "no": 113,
       "name": "Ubuntu Budgie",
-      "rank": 93,
-      "trend": "level",
+      "rank": 91,
+      "trend": "down",
       "url": "https://ubuntubudgie.org/",
       "logo": "https://linux-trend.vercel.app/logos/ubuntu budgie.png",
       "yesterday": 2332
@@ -1024,22 +1024,13 @@
       "no": 114,
       "name": "DragonFly",
       "rank": 90,
-      "trend": "down",
+      "trend": "level",
       "url": "http://www.dragonflybsd.org/",
       "logo": "https://linux-trend.vercel.app/logos/dragonfly.png",
       "yesterday": 2332
     },
     {
       "no": 115,
-      "name": "Trisquel",
-      "rank": 89,
-      "trend": "down",
-      "url": "https://trisquel.info/",
-      "logo": "https://linux-trend.vercel.app/logos/trisquel.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 116,
       "name": "Elive",
       "rank": 88,
       "trend": "level",
@@ -1048,7 +1039,7 @@
       "yesterday": 2332
     },
     {
-      "no": 117,
+      "no": 116,
       "name": "OSMC",
       "rank": 88,
       "trend": "level",
@@ -1057,7 +1048,7 @@
       "yesterday": 2332
     },
     {
-      "no": 118,
+      "no": 117,
       "name": "Pardus",
       "rank": 88,
       "trend": "level",
@@ -1066,16 +1057,16 @@
       "yesterday": 2332
     },
     {
-      "no": 119,
+      "no": 118,
       "name": "Calculate",
       "rank": 87,
-      "trend": "down",
+      "trend": "level",
       "url": "https://www.calculate-linux.org/",
       "logo": "https://linux-trend.vercel.app/logos/calculate.png",
       "yesterday": 2332
     },
     {
-      "no": 120,
+      "no": 119,
       "name": "risiOS",
       "rank": 87,
       "trend": "level",
@@ -1084,7 +1075,7 @@
       "yesterday": 2332
     },
     {
-      "no": 121,
+      "no": 120,
       "name": "Armbian",
       "rank": 86,
       "trend": "level",
@@ -1093,7 +1084,7 @@
       "yesterday": 2332
     },
     {
-      "no": 122,
+      "no": 121,
       "name": "openmamba",
       "rank": 83,
       "trend": "level",
@@ -1102,16 +1093,16 @@
       "yesterday": 2332
     },
     {
-      "no": 123,
+      "no": 122,
       "name": "hellosystem",
-      "rank": 82,
+      "rank": 81,
       "trend": "down",
       "url": "https://github.com/helloSystem/hello",
       "logo": "https://linux-trend.vercel.app/logos/hellosystem.png",
       "yesterday": 2332
     },
     {
-      "no": 124,
+      "no": 123,
       "name": "Ubuntu Unity",
       "rank": 81,
       "trend": "level",
@@ -1120,30 +1111,39 @@
       "yesterday": 2332
     },
     {
-      "no": 125,
-      "name": "Salix",
-      "rank": 76,
-      "trend": "level",
-      "url": "http://www.salixos.org/",
-      "logo": "https://linux-trend.vercel.app/logos/salix.png",
+      "no": 124,
+      "name": "Trisquel",
+      "rank": 80,
+      "trend": "down",
+      "url": "https://trisquel.info/",
+      "logo": "https://linux-trend.vercel.app/logos/trisquel.png",
       "yesterday": 2332
     },
     {
-      "no": 126,
+      "no": 125,
       "name": "Univention",
-      "rank": 76,
-      "trend": "level",
+      "rank": 77,
+      "trend": "up",
       "url": "https://www.univention.com/",
       "logo": "https://linux-trend.vercel.app/logos/univention.png",
       "yesterday": 2332
     },
     {
-      "no": 127,
+      "no": 126,
       "name": "Zenwalk",
-      "rank": 76,
+      "rank": 77,
       "trend": "up",
       "url": "http://zenwalk.org/",
       "logo": "https://linux-trend.vercel.app/logos/zenwalk.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 127,
+      "name": "Salix",
+      "rank": 75,
+      "trend": "down",
+      "url": "http://www.salixos.org/",
+      "logo": "https://linux-trend.vercel.app/logos/salix.png",
       "yesterday": 2332
     },
     {
@@ -1177,7 +1177,7 @@
       "no": 131,
       "name": "Liya",
       "rank": 73,
-      "trend": "up",
+      "trend": "level",
       "url": "https://liyalinux.gitlab.io/",
       "logo": "https://linux-trend.vercel.app/logos/liya.png",
       "yesterday": 2332
@@ -1186,7 +1186,7 @@
       "no": 132,
       "name": "Snal",
       "rank": 73,
-      "trend": "down",
+      "trend": "level",
       "url": "https://snallinux.sourceforge.io/",
       "logo": "https://linux-trend.vercel.app/logos/snal.png",
       "yesterday": 2332
@@ -1202,24 +1202,6 @@
     },
     {
       "no": 134,
-      "name": "SystemRescue",
-      "rank": 71,
-      "trend": "down",
-      "url": "http://www.system-rescue.org/",
-      "logo": "https://linux-trend.vercel.app/logos/systemrescue.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 135,
-      "name": "Ubuntu Kylin",
-      "rank": 71,
-      "trend": "level",
-      "url": "https://www.ubuntukylin.com/",
-      "logo": "https://linux-trend.vercel.app/logos/ubuntu kylin.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 136,
       "name": "Hyperbola",
       "rank": 70,
       "trend": "level",
@@ -1228,7 +1210,7 @@
       "yesterday": 2332
     },
     {
-      "no": 137,
+      "no": 135,
       "name": "Linspire",
       "rank": 70,
       "trend": "level",
@@ -1237,12 +1219,30 @@
       "yesterday": 2332
     },
     {
-      "no": 138,
+      "no": 136,
+      "name": "SystemRescue",
+      "rank": 70,
+      "trend": "down",
+      "url": "http://www.system-rescue.org/",
+      "logo": "https://linux-trend.vercel.app/logos/systemrescue.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 137,
       "name": "UBports",
       "rank": 70,
       "trend": "level",
       "url": "https://ubports.com/",
       "logo": "https://linux-trend.vercel.app/logos/ubports.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 138,
+      "name": "Ubuntu Kylin",
+      "rank": 70,
+      "trend": "down",
+      "url": "https://www.ubuntukylin.com/",
+      "logo": "https://linux-trend.vercel.app/logos/ubuntu kylin.png",
       "yesterday": 2332
     },
     {
@@ -1256,29 +1256,29 @@
     },
     {
       "no": 140,
-      "name": "Robolinux",
-      "rank": 66,
-      "trend": "level",
-      "url": "http://www.robolinux.org/",
-      "logo": "https://linux-trend.vercel.app/logos/robolinux.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 141,
       "name": "Slackel",
       "rank": 66,
-      "trend": "down",
+      "trend": "level",
       "url": "http://www.slackel.gr/",
       "logo": "https://linux-trend.vercel.app/logos/slackel.png",
       "yesterday": 2332
     },
     {
-      "no": 142,
+      "no": 141,
       "name": "FuguIta",
       "rank": 65,
       "trend": "level",
       "url": "https://fuguita.org/",
       "logo": "https://linux-trend.vercel.app/logos/fuguita.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 142,
+      "name": "Robolinux",
+      "rank": 65,
+      "trend": "down",
+      "url": "http://www.robolinux.org/",
+      "logo": "https://linux-trend.vercel.app/logos/robolinux.png",
       "yesterday": 2332
     },
     {
@@ -1292,15 +1292,6 @@
     },
     {
       "no": 144,
-      "name": "Pisi",
-      "rank": 63,
-      "trend": "level",
-      "url": "https://www.pisilinux.org/",
-      "logo": "https://linux-trend.vercel.app/logos/pisi.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 145,
       "name": "Porteus",
       "rank": 63,
       "trend": "level",
@@ -1309,7 +1300,7 @@
       "yesterday": 2332
     },
     {
-      "no": 146,
+      "no": 145,
       "name": "postmarketOS",
       "rank": 63,
       "trend": "level",
@@ -1318,12 +1309,21 @@
       "yesterday": 2332
     },
     {
-      "no": 147,
+      "no": 146,
       "name": "Pearl",
       "rank": 62,
       "trend": "level",
       "url": "https://www.pearllinux.net/",
       "logo": "https://linux-trend.vercel.app/logos/pearl.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 147,
+      "name": "Pisi",
+      "rank": 62,
+      "trend": "down",
+      "url": "https://www.pisilinux.org/",
+      "logo": "https://linux-trend.vercel.app/logos/pisi.png",
       "yesterday": 2332
     },
     {
@@ -1391,6 +1391,15 @@
     },
     {
       "no": 155,
+      "name": "Edubuntu",
+      "rank": 59,
+      "trend": "up",
+      "url": "https://www.edubuntu.org/",
+      "logo": "https://linux-trend.vercel.app/logos/edubuntu.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 156,
       "name": "ArchBang",
       "rank": 58,
       "trend": "level",
@@ -1399,21 +1408,12 @@
       "yesterday": 2332
     },
     {
-      "no": 156,
+      "no": 157,
       "name": "Canaima",
       "rank": 58,
       "trend": "level",
       "url": "http://canaima.softwarelibre.gob.ve/",
       "logo": "https://linux-trend.vercel.app/logos/canaima.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 157,
-      "name": "Edubuntu",
-      "rank": 58,
-      "trend": "level",
-      "url": "https://www.edubuntu.org/",
-      "logo": "https://linux-trend.vercel.app/logos/edubuntu.png",
       "yesterday": 2332
     },
     {
@@ -1436,24 +1436,15 @@
     },
     {
       "no": 160,
-      "name": "Debian Edu",
-      "rank": 57,
-      "trend": "up",
-      "url": "http://www.skolelinux.org/",
-      "logo": "https://linux-trend.vercel.app/logos/debian edu.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 161,
       "name": "pfSense",
-      "rank": 57,
-      "trend": "level",
+      "rank": 58,
+      "trend": "up",
       "url": "https://www.pfsense.org/",
       "logo": "https://linux-trend.vercel.app/logos/pfsense.png",
       "yesterday": 2332
     },
     {
-      "no": 162,
+      "no": 161,
       "name": "SliTaz",
       "rank": 57,
       "trend": "level",
@@ -1462,7 +1453,7 @@
       "yesterday": 2332
     },
     {
-      "no": 163,
+      "no": 162,
       "name": "WM Live",
       "rank": 57,
       "trend": "level",
@@ -1471,12 +1462,21 @@
       "yesterday": 2332
     },
     {
-      "no": 164,
+      "no": 163,
       "name": "BlackArch",
       "rank": 56,
       "trend": "level",
       "url": "http://blackarch.org/",
       "logo": "https://linux-trend.vercel.app/logos/blackarch.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 164,
+      "name": "Debian Edu",
+      "rank": 56,
+      "trend": "down",
+      "url": "http://www.skolelinux.org/",
+      "logo": "https://linux-trend.vercel.app/logos/debian edu.png",
       "yesterday": 2332
     },
     {
@@ -1555,7 +1555,7 @@
       "no": 173,
       "name": "Guix System",
       "rank": 53,
-      "trend": "down",
+      "trend": "level",
       "url": "https://www.gnu.org/software/guix/",
       "logo": "https://linux-trend.vercel.app/logos/guix system.png",
       "yesterday": 2332
@@ -1635,7 +1635,7 @@
     {
       "no": 182,
       "name": "EasyNAS",
-      "rank": 49,
+      "rank": 50,
       "trend": "up",
       "url": "https://www.easynas.org/",
       "logo": "https://linux-trend.vercel.app/logos/easynas.png",
@@ -1662,7 +1662,7 @@
     {
       "no": 185,
       "name": "Plop",
-      "rank": 47,
+      "rank": 48,
       "trend": "up",
       "url": "http://www.plop.at/",
       "logo": "https://linux-trend.vercel.app/logos/plop.png",
@@ -1672,7 +1672,7 @@
       "no": 186,
       "name": "AcademiX",
       "rank": 46,
-      "trend": "down",
+      "trend": "level",
       "url": "https://academixproject.com",
       "logo": "https://linux-trend.vercel.app/logos/academix.png",
       "yesterday": 2332
@@ -1888,7 +1888,7 @@
       "no": 210,
       "name": "Ufficio Zero",
       "rank": 38,
-      "trend": "down",
+      "trend": "level",
       "url": "https://www.ufficiozero.org/",
       "logo": "https://linux-trend.vercel.app/logos/ufficio zero.png",
       "yesterday": 2332
@@ -1985,15 +1985,6 @@
     },
     {
       "no": 221,
-      "name": "T2",
-      "rank": 34,
-      "trend": "level",
-      "url": "http://www.t2-project.org/",
-      "logo": "https://linux-trend.vercel.app/logos/t2.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 222,
       "name": "Untangle",
       "rank": 34,
       "trend": "level",
@@ -2002,7 +1993,7 @@
       "yesterday": 2332
     },
     {
-      "no": 223,
+      "no": 222,
       "name": "VyOS",
       "rank": 34,
       "trend": "level",
@@ -2011,7 +2002,7 @@
       "yesterday": 2332
     },
     {
-      "no": 224,
+      "no": 223,
       "name": "XStreamOS",
       "rank": 34,
       "trend": "level",
@@ -2020,16 +2011,16 @@
       "yesterday": 2332
     },
     {
-      "no": 225,
+      "no": 224,
       "name": "Navy",
       "rank": 33,
-      "trend": "down",
+      "trend": "level",
       "url": "https://navylinux.org/",
       "logo": "https://linux-trend.vercel.app/logos/navy.png",
       "yesterday": 2332
     },
     {
-      "no": 226,
+      "no": 225,
       "name": "RebeccaBlackOS",
       "rank": 33,
       "trend": "level",
@@ -2038,12 +2029,21 @@
       "yesterday": 2332
     },
     {
-      "no": 227,
+      "no": 226,
       "name": "RSS",
       "rank": 33,
       "trend": "level",
       "url": "http://www.binaryemotions.com/digital-signage/raspberry-slideshow/",
       "logo": "https://linux-trend.vercel.app/logos/rss.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 227,
+      "name": "T2",
+      "rank": 33,
+      "trend": "down",
+      "url": "http://www.t2-project.org/",
+      "logo": "https://linux-trend.vercel.app/logos/t2.png",
       "yesterday": 2332
     },
     {
@@ -2113,7 +2113,7 @@
       "no": 235,
       "name": "Recalbox",
       "rank": 31,
-      "trend": "down",
+      "trend": "level",
       "url": "https://www.recalbox.com/",
       "logo": "https://linux-trend.vercel.app/logos/recalbox.png",
       "yesterday": 2332
@@ -2273,15 +2273,24 @@
     },
     {
       "no": 253,
+      "name": "PrimTux",
+      "rank": 28,
+      "trend": "up",
+      "url": "https://primtux.fr/",
+      "logo": "https://linux-trend.vercel.app/logos/primtux.png",
+      "yesterday": 2332
+    },
+    {
+      "no": 254,
       "name": "Super Grub2",
       "rank": 28,
-      "trend": "down",
+      "trend": "level",
       "url": "http://www.supergrubdisk.org/super-grub2-disk/",
       "logo": "https://linux-trend.vercel.app/logos/super grub2.png",
       "yesterday": 2332
     },
     {
-      "no": 254,
+      "no": 255,
       "name": "YunoHost",
       "rank": 28,
       "trend": "level",
@@ -2290,7 +2299,7 @@
       "yesterday": 2332
     },
     {
-      "no": 255,
+      "no": 256,
       "name": "eLearnix",
       "rank": 27,
       "trend": "level",
@@ -2299,7 +2308,7 @@
       "yesterday": 2332
     },
     {
-      "no": 256,
+      "no": 257,
       "name": "MAX",
       "rank": 27,
       "trend": "level",
@@ -2308,7 +2317,7 @@
       "yesterday": 2332
     },
     {
-      "no": 257,
+      "no": 258,
       "name": "NexentaStor",
       "rank": 27,
       "trend": "level",
@@ -2317,21 +2326,12 @@
       "yesterday": 2332
     },
     {
-      "no": 258,
+      "no": 259,
       "name": "Omarine",
       "rank": 27,
       "trend": "level",
       "url": "https://omarine.org/",
       "logo": "https://linux-trend.vercel.app/logos/omarine.png",
-      "yesterday": 2332
-    },
-    {
-      "no": 259,
-      "name": "PrimTux",
-      "rank": 27,
-      "trend": "down",
-      "url": "https://primtux.fr/",
-      "logo": "https://linux-trend.vercel.app/logos/primtux.png",
       "yesterday": 2332
     },
     {
@@ -2410,7 +2410,7 @@
       "no": 268,
       "name": "Bicom",
       "rank": 25,
-      "trend": "down",
+      "trend": "level",
       "url": "http://www.bicomsystems.com/products/pbxware/",
       "logo": "https://linux-trend.vercel.app/logos/bicom.png",
       "yesterday": 2332
