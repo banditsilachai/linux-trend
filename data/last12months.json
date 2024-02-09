@@ -1,6 +1,6 @@
 {
   "createAt": [
-    "2024-02-09T13:53:01.500Z"
+    "2024-02-09T14:14:33.475Z"
   ],
   "last12months": [
     {
@@ -2422,6 +2422,60 @@
       "trend": "level",
       "url": "http://www.smeserver.org/",
       "logo": "https://linux-trend.vercel.app/logos/sme server.svg",
+      "yesterday": 2694
+    },
+    {
+      "no": 270,
+      "name": "OB2D",
+      "rank": 24,
+      "trend": "level",
+      "url": "http://b2d-linux.com/",
+      "logo": "https://linux-trend.vercel.app/logos/ob2d.svg",
+      "yesterday": 2694
+    },
+    {
+      "no": 271,
+      "name": "Omoikane",
+      "rank": 24,
+      "trend": "level",
+      "url": "http://www.omoikane.co.jp",
+      "logo": "https://linux-trend.vercel.app/logos/omoikane.svg",
+      "yesterday": 2694
+    },
+    {
+      "no": 272,
+      "name": "CROWZ",
+      "rank": 21,
+      "trend": "up",
+      "url": "",
+      "logo": "https://linux-trend.vercel.app/logos/crowz.svg",
+      "yesterday": 2694
+    },
+    {
+      "no": 273,
+      "name": "Lernstick",
+      "rank": 21,
+      "trend": "level",
+      "url": "",
+      "logo": "https://linux-trend.vercel.app/logos/lernstick.svg",
+      "yesterday": 2694
+    },
+    {
+      "no": 274,
+      "name": "Commodore",
+      "rank": 7,
+      "trend": "level",
+      "url": "",
+      "logo": "https://linux-trend.vercel.app/logos/commodore.svg",
+      "yesterday": 2694
+    },
+    {
+      "no": 275,
+      "name": "Skudonet",
+      "rank": 7,
+      "trend": "level",
+      "url": "",
+      "logo": "https://linux-trend.vercel.app/logos/skudonet.svg",
       "yesterday": 2694
     }
   ]
