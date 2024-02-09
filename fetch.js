@@ -5,7 +5,7 @@ const url = "https://distrowatch.com/dwres.php?resource=popularity";
 const distroName = require("./data/distroName.json");
 
 function getLogo(name) {
-  return `https://linux-trend.vercel.app/logos/${name}.png`.toLocaleLowerCase();
+  return `https://linux-trend.vercel.app/logos/${name}.svg`.toLocaleLowerCase();
 }
 
 const scrap = async (childNum = 2) => {
