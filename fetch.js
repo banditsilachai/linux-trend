@@ -148,7 +148,41 @@ const scrap = async (childNum = 2) => {
   await browser.close();
 };
 
-scrap(1);
+// scrap(1);
 // scrap(2);
 // scrap(3);
 // scrap(4);
+
+async function callScrapSequentially() {
+    const maxRetries = 3000; // Maximum number of retries per scrap call
+    const delayBetweenRetries = 1000; // Delay between retries in milliseconds
+
+    const scrapCalls = [1, 2, 3, 4]; // Define the scrap calls to make
+    
+    for (const value of scrapCalls) {
+        let retryCount = 0;
+
+        while (retryCount < maxRetries) {
+            try {
+                await scrap(value);
+                console.log(`Scrap call ${value} succeeded.`);
+                break; // Exit the retry loop if successful
+            } catch (error) {
+                console.error(`Scrap call ${value} failed. Retrying...`);
+                retryCount++;
+                await new Promise(resolve => setTimeout(resolve, delayBetweenRetries)); // Wait before retrying
+            }
+        }
+
+        if (retryCount === maxRetries) {
+            console.error(`Max retries reached for scrap call ${value}.`);
+        }
+    }
+
+    console.log("All scrap calls finished.");
+    // exit the process
+    process.exit();
+}
+
+// Immediately call the function to start the sequential execution
+callScrapSequentially();
