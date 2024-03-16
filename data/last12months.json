@@ -1,6 +1,6 @@
 {
   "createAt": [
-    "2024-03-16T06:42:22.235Z"
+    "2024-03-16T06:42:59.184Z"
   ],
   "last12months": [
     {
@@ -2440,6 +2440,15 @@
       "trend": "level",
       "url": "",
       "logo": "https://linux-trend.vercel.app/logos/skudonet.svg",
+      "yesterday": 2583
+    },
+    {
+      "no": 272,
+      "name": "Dr.Parted",
+      "rank": 4,
+      "trend": "up",
+      "url": "",
+      "logo": "https://linux-trend.vercel.app/logos/dr.parted.svg",
       "yesterday": 2583
     }
   ]
