@@ -47,7 +47,7 @@ const scrap = async (childNum = 2) => {
     waitUntil: "networkidle0",
   });
 
-  let distroCount = 276;
+  let distroCount = 265;
 
   for (let i = 2; i < distroCount; i++) {
     const nameSelector = await page.waitForSelector(
@@ -149,6 +149,6 @@ const scrap = async (childNum = 2) => {
 };
 
 scrap(1);
-scrap(2);
-scrap(3);
-scrap(4);
+// scrap(2);
+// scrap(3);
+// scrap(4);
