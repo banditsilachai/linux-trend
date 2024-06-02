@@ -20,3 +20,5 @@ Following resources are available which you can access via our REST API.
 - [Last 6 Months](https://linux-trend.vercel.app/api/last6months)
 - [Last 3 Months](https://linux-trend.vercel.app/api/last3months)
 - [Last 1 Months](https://linux-trend.vercel.app/api/last1months)
+
+## License
