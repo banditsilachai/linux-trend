@@ -92,7 +92,7 @@ const scrap = async (childNum = 2) => {
 
     switch (childNum) {
       case 1:
-        resultObj.last12months.push({
+        resultObj.data.push({
           no: i - 1,
           name: nameEvaluate,
           rank: parseInt(rankEvaluate),
@@ -103,7 +103,7 @@ const scrap = async (childNum = 2) => {
         });
         break;
       case 2:
-        resultObj.last6months.push({
+        resultObj.data.push({
           no: i - 1,
           name: nameEvaluate,
           rank: parseInt(rankEvaluate),
@@ -114,7 +114,7 @@ const scrap = async (childNum = 2) => {
         });
         break;
       case 3:
-        resultObj.last3months.push({
+        resultObj.data.push({
           no: i - 1,
           name: nameEvaluate,
           rank: parseInt(rankEvaluate),
@@ -125,7 +125,7 @@ const scrap = async (childNum = 2) => {
         });
         break;
       case 4:
-        resultObj.last1months.push({
+        resultObj.data.push({
           no: i - 1,
           name: nameEvaluate,
           rank: parseInt(rankEvaluate),
