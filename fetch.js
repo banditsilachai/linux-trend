@@ -11,7 +11,7 @@ function getLogo(name) {
 const scrap = async (childNum = 2) => {
   let month = 0;
   let resultObj = {
-    createAt: [new Date().toISOString()],
+    createAt: new Date().toISOString(),
   };
 
   switch (childNum) {
